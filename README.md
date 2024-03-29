@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a simple todo app<br>🌱 I’m currently learning MERN Stack and MYSQL<br>💬 Ask me about anything (I can use google)<br>⚡ Fun fact I know somethings that others don't ;)
+🔭 I’m currently working on a flutter app.<br>🌱 I’m currently learning MERN Stack and MYSQL<br>💬 Ask me about anything (I can use google)<br>⚡ Fun fact I know somethings that others don't ;)
 
 
 ## 🌐 Socials:
